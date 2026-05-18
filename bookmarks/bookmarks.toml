@@ -1,0 +1,288 @@
+# Browser bookmarks — source of truth
+# Edit here, then run: python3 bookmarks_build.py
+# Output bookmarks_import.html can be imported by Chrome, Firefox, Safari, and Edge.
+#
+# Structure: [[category.subcategory]]  entries are title + url pairs.
+# Top-level folders become browser bookmark folders.
+
+# ─── Work: PCSD ──────────────────────────────────────────────────────────────
+
+[[work.pcsd]]
+title = "PCSD Mail"
+url = "https://mail.google.com/mail/u/0/#inbox"
+
+[[work.pcsd]]
+title = "Dashboard"
+url = "https://dashboard.provo.edu/"
+
+[[work.pcsd]]
+title = "[stage] Dashboard"
+url = "https://dashboard-stage.provo.edu/"
+
+[[work.pcsd]]
+title = "Help Desk"
+url = "https://help.provo.edu/tickets.php"
+
+[[work.pcsd]]
+title = "[stage] Help Desk"
+url = "https://help-stage.provo.edu/tickets.php"
+
+[[work.pcsd]]
+title = "Vault"
+url = "https://vault.provo.edu/"
+
+[[work.pcsd]]
+title = "[stage] Vault"
+url = "https://vault-stage.provo.edu/"
+
+[[work.pcsd]]
+title = "mVault"
+url = "https://mvault.provo.edu/"
+
+[[work.pcsd]]
+title = "[stage] mVault"
+url = "https://mvault-stage.provo.edu/"
+
+[[work.pcsd]]
+title = "Provo City School District GitHub"
+url = "https://github.com/Provo-City-School-District"
+
+
+[[work.pcsd]]
+title = "UKG"
+url = "https://secure7.saashr.com/ta/6205041.login?NoRedirect=1"
+
+[[work.pcsd]]
+title = "ALIO Employee Service Portal"
+url = "https://www.aliosolutions.net/PROVO/LeaveSummary.aspx"
+
+[[work.pcsd]]
+title = "Phone System - Webex"
+url = "https://provoschooldistrict.webex.com/webappng/sites/provoschooldistrict/meeting/home"
+
+[[work.pcsd]]
+title = "Lucid"
+url = "https://lucid.app/users/login#/login"
+
+[[work.pcsd]]
+title = "Feedly"
+url = "https://feedly.com/i/my/me"
+
+[[work.pcsd]]
+title = "Network Change Log"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSf3nFgIUISamutG5Jfc2OCCC4N4cjHJZys07AI8rvZtcS7Mhg/viewform"
+
+[[work.pcsd]]
+title = "PCSD Tech Support Shout Out"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSfgId5UEbrcWMY8pdWMGPz-1MwtCFK___ltgef_bv8F-NhiHA/viewform"
+
+# ─── Work: P-Card ────────────────────────────────────────────────────────────
+
+[[work.pcard]]
+title = "ERP - LINQ"
+url = "https://provo.erplinq.com/20_PSD/"
+
+[[work.pcard]]
+title = "Etrieve Login"
+url = "https://provoarchive.etrieve.cloud/"
+
+[[work.pcard]]
+title = "USBank (p-card)"
+url = "https://www.access.usbank.com/cpsApp1/AxolPreAuthServlet?requestCmdId=login"
+
+# ─── Work: Security ──────────────────────────────────────────────────────────
+
+[[work.security]]
+title = "Graylog"
+url = "https://graylog.provo.edu/"
+
+[[work.security]]
+title = "AbuseIPDB"
+url = "https://www.abuseipdb.com/"
+
+[[work.security]]
+title = "Ubuntu Security Notices"
+url = "https://ubuntu.com/security/notices"
+
+[[work.security]]
+title = "CIS WorkBench / Benchmarks"
+url = "https://workbench.cisecurity.org/benchmarks"
+
+[[work.security]]
+title = "Adlumin"
+url = "https://portal.adlumin.com/hosts/1"
+
+[[work.security]]
+title = "Barracuda Backup (cloud)"
+url = "https://auth.barracudanetworks.com/login/email"
+
+[[work.security]]
+title = "Barracuda Networks (local)"
+url = "https://158.91.125.46/auth/signin/"
+
+
+# ─── Work: Infrastructure ────────────────────────────────────────────────────
+
+[[work.infrastructure]]
+title = "DevTest-ubuntu24 (Cockpit)"
+url = "https://158.91.1.130:9090/system"
+
+[[work.infrastructure]]
+title = "dock-host1 [Ubuntu 24] (Cockpit)"
+url = "https://158.91.1.128:9090/"
+
+[[work.infrastructure]]
+title = "dock-host2 [Ubuntu 24] (Cockpit)"
+url = "https://158.91.1.129:9090/"
+
+[[work.infrastructure]]
+title = "dock-host4 [Ubuntu 24] (Cockpit)"
+url = "https://158.91.1.131:9090/"
+
+[[work.infrastructure]]
+title = "dock-host5 [Ubuntu-24] (Cockpit)"
+url = "https://158.91.1.132:9090/"
+
+[[work.infrastructure]]
+title = "Bounce Pi Script Runner"
+url = "http://158.91.165.225:5000/"
+
+[[work.infrastructure]]
+title = "bathroom_status"
+url = "http://158.91.4.187:8080/bathroom_status"
+
+# ─── Work: Database Admin ────────────────────────────────────────────────────
+
+[[work.database_admin]]
+title = "Vault Live - phpMyAdmin"
+url = "https://vault.provo.edu:10081/phpmyadmin/"
+
+[[work.database_admin]]
+title = "stage - phpMyAdmin"
+url = "https://stage-myadmin.provo.edu/"
+
+[[work.database_admin]]
+title = "host1 - phpMyAdmin"
+url = "https://host1-myadmin.provo.edu/"
+
+[[work.database_admin]]
+title = "host2 - phpMyAdmin"
+url = "https://host2-myadmin.provo.edu/"
+
+[[work.database_admin]]
+title = "host4 - phpMyAdmin"
+url = "https://host4-myadmin.provo.edu/"
+
+[[work.database_admin]]
+title = "host5 - phpMyAdmin"
+url = "https://host5-myadmin.provo.edu/"
+
+# ─── Work: Google Docs / Sheets ──────────────────────────────────────────────
+
+[[work.google_docs]]
+title = "Technology Procedures Manual"
+url = "https://docs.google.com/document/d/1t-A69aMdW3vlDxUMu6WksEV60MizzjlDf0rztz8yczQ/edit"
+
+[[work.google_docs]]
+title = "Tech Support Phones"
+url = "https://docs.google.com/spreadsheets/d/1qDGBdl5bv20nBR8NJcjsnhPEYg3CJ_JMP5OxP1q3nck/edit?gid=0#gid=0"
+
+# ─── Dev: PHP ────────────────────────────────────────────────────────────────
+
+[[dev.php]]
+title = "PHP: The Right Way"
+url = "https://phptherightway.com/"
+
+[[dev.php]]
+title = "PHP-FIG"
+url = "https://www.php-fig.org/"
+
+[[dev.php]]
+title = "PHP.Watch"
+url = "https://php.watch/"
+
+[[dev.php]]
+title = "Packagist"
+url = "https://packagist.org/"
+
+[[dev.php]]
+title = "Online PHP Compiler"
+url = "https://www.programiz.com/php/online-compiler/"
+
+
+# ─── Dev: Frontend ───────────────────────────────────────────────────────────
+
+[[dev.frontend]]
+title = "TinyMCE 7 Documentation"
+url = "https://www.tiny.cloud/docs/tinymce/latest/"
+
+[[dev.frontend]]
+title = "TinyMCE - Multiple Editors"
+url = "https://www.tiny.cloud/docs/tinymce/6/multiple-editors/"
+
+[[dev.frontend]]
+title = "Prism.js Download"
+url = "https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript"
+
+[[dev.frontend]]
+title = "DataTables Download"
+url = "https://datatables.net/download/"
+
+# ─── Dev: References ─────────────────────────────────────────────────────────
+
+[[dev.references]]
+title = "cheat.sh"
+url = "https://cheat.sh/"
+
+[[dev.references]]
+title = "Markdown Guide - Basic Syntax"
+url = "https://www.markdownguide.org/basic-syntax"
+
+[[dev.references]]
+title = "Postgres Tutorials - Crunchy Data"
+url = "https://www.crunchydata.com/developers/tutorials"
+
+[[dev.references]]
+title = "Mozilla SSL Configuration Generator"
+url = "https://ssl-config.mozilla.org/#server=apache&version=2.4.41&config=intermediate&openssl=1.1.1f&ocsp=false&guideline=5.6"
+
+[[dev.references]]
+title = "Comparison Sorting Visualization"
+url = "https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html"
+
+[[dev.references]]
+title = "HTTP Cats"
+url = "https://http.cat/"
+
+[[dev.references]]
+title = "Quackit Tutorials"
+url = "https://www.quackit.com/"
+
+# ─── Dev: Tools ──────────────────────────────────────────────────────────────
+
+[[dev.tools]]
+title = "Grabify IP Logger & URL Shortener"
+url = "https://grabify.link/"
+
+[[dev.tools]]
+title = "Online Random File Generator"
+url = "https://pinetools.com/random-file-generator"
+
+
+# ─── Personal ────────────────────────────────────────────────────────────────
+
+[[personal]]
+title = "Reddit"
+url = "https://www.reddit.com/?feed=home"
+
+[[personal]]
+title = "X (Connect)"
+url = "https://x.com/i/connect_people?user_id=1982803898047033344"
+
+[[personal]]
+title = "Cat Ipsum"
+url = "http://www.catipsum.com/"
+
+[[personal]]
+title = "Coffee Ipsum"
+url = "http://coffeeipsum.com/"
