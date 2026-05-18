@@ -76,6 +76,10 @@ url = "https://docs.google.com/forms/d/e/1FAIpQLSf3nFgIUISamutG5Jfc2OCCC4N4cjHJZ
 title = "PCSD Tech Support Shout Out"
 url = "https://docs.google.com/forms/d/e/1FAIpQLSfgId5UEbrcWMY8pdWMGPz-1MwtCFK___ltgef_bv8F-NhiHA/viewform"
 
+[[work.pcsd]]
+title = "Public Surplus"
+url = "https://www.publicsurplus.com/sms/provocsd,ut/list/current?orgid=3393"
+
 # ─── Work: P-Card ────────────────────────────────────────────────────────────
 
 [[work.pcard]]
@@ -278,11 +282,3 @@ url = "https://www.reddit.com/?feed=home"
 [[personal]]
 title = "X (Connect)"
 url = "https://x.com/i/connect_people?user_id=1982803898047033344"
-
-[[personal]]
-title = "Cat Ipsum"
-url = "http://www.catipsum.com/"
-
-[[personal]]
-title = "Coffee Ipsum"
-url = "http://coffeeipsum.com/"
