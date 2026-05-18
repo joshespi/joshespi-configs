@@ -20,7 +20,7 @@ def render_entries(entries: list, indent: int) -> list[str]:
     lines = []
     for entry in entries:
         title = html.escape(entry.get("title", ""))
-        url = html.escape(entry.get("url", ""))
+        url = entry.get("url", "")
         lines.append(f'{pad}<DT><A HREF="{url}">{title}</A>')
     return lines
 

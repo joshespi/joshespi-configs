@@ -273,12 +273,412 @@ title = "Online Random File Generator"
 url = "https://pinetools.com/random-file-generator"
 
 
-# ─── Personal ────────────────────────────────────────────────────────────────
+# ─── Personal: Social ────────────────────────────────────────────────────────
 
-[[personal]]
+[[personal.social]]
 title = "Reddit"
 url = "https://www.reddit.com/?feed=home"
 
-[[personal]]
+[[personal.social]]
 title = "X (Connect)"
 url = "https://x.com/i/connect_people?user_id=1982803898047033344"
+
+[[personal.social]]
+title = "Facebook"
+url = "https://www.facebook.com/"
+
+[[personal.social]]
+title = "LinkedIn"
+url = "https://www.linkedin.com/"
+
+[[personal.social]]
+title = "Mastodon"
+url = "https://mastodon.social/home"
+
+[[personal.social]]
+title = "Pinkary"
+url = "https://pinkary.com/@Espi"
+
+[[personal.social]]
+title = "Discord"
+url = "https://discord.com/channels/@me"
+
+[[personal.social]]
+title = "Twitch (stream manager)"
+url = "https://dashboard.twitch.tv/u/trashual_player/stream-manager"
+
+[[personal.social]]
+title = "Twitch (trashual_player)"
+url = "https://www.twitch.tv/trashual_player"
+
+[[personal.social]]
+title = "Twitch (xanderquinn1)"
+url = "https://www.twitch.tv/xanderquinn1"
+
+[[personal.social]]
+title = "Streamlabs"
+url = "https://streamlabs.com/dashboard#/stats"
+
+# ─── Personal: Homelab ───────────────────────────────────────────────────────
+
+[[personal.homelab]]
+title = "pve1 - Proxmox"
+url = "https://192.168.86.40:8006/#v1:0:18:4:::::::"
+
+[[personal.homelab]]
+title = "pve2 - Proxmox"
+url = "https://192.168.86.150:8006/#v1:0:18:4:::::::"
+
+[[personal.homelab]]
+title = "plex-ubuntu24 (Cockpit)"
+url = "https://192.168.86.41:9090/"
+
+[[personal.homelab]]
+title = "core-services ubuntu24 (Cockpit)"
+url = "https://192.168.86.42:9090/storage"
+
+[[personal.homelab]]
+title = "ubuntu24-pi4 (Cockpit)"
+url = "https://192.168.86.29:9090/"
+
+[[personal.homelab]]
+title = "backup (Cockpit)"
+url = "https://192.168.86.46:9090/"
+
+[[personal.homelab]]
+title = "backup-redund (Cockpit)"
+url = "https://192.168.86.54:9090/system/terminal"
+
+[[personal.homelab]]
+title = "Pi-hole (pi4)"
+url = "http://192.168.86.29:8314/admin/login"
+
+[[personal.homelab]]
+title = "Pi-hole (dockerpi1)"
+url = "http://192.168.86.241:8314/admin/login"
+
+[[personal.homelab]]
+title = "Sendinblue"
+url = "https://account.sendinblue.com/advanced/plugins/"
+
+[[personal.homelab]]
+title = "joshespi.com"
+url = "https://joshespi.com/"
+
+[[personal.homelab]]
+title = "iamjoshespinoza.com"
+url = "https://iamjoshespinoza.com/"
+
+[[personal.homelab]]
+title = "espifam.com"
+url = "https://espifam.com/"
+
+[[personal.homelab]]
+title = "Portfolio Tracker"
+url = "https://portfolio.espifam.com/dashboard"
+
+[[personal.homelab]]
+title = "Firewalla"
+url = "https://firewalla.com/collections/all/firewalla?&sort_by=created-descending"
+
+# ─── Personal: Bills ─────────────────────────────────────────────────────────
+
+[[personal.bills]]
+title = "Xander's Lunch - LINQ"
+url = "https://accounts.linq.com/u/login?state=hKFo2SBHd1l2TDRHMTdzQTZsTHJZM1hHYzdaX2tyUzhOSWp4a6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDVqckFiZFdfcXpCamhqdUZMSFQyeURjb3hpOUNSeHdio2NpZNkgZU1kOUZySDRldjFYNnRoQndrZ3EzWWJPWXpDUnhmS0o"
+
+[[personal.bills]]
+title = "LINQ Connect"
+url = "https://linqconnect.com/main"
+
+[[personal.bills]]
+title = "HOA"
+url = "https://tpmr.twa.rentmanager.com/"
+
+[[personal.bills]]
+title = "Xpress Bill Pay"
+url = "https://www.xpressbillpay.com/#/?org=SpanishForkCity10041"
+
+[[personal.bills]]
+title = "UCCU"
+url = "https://online.uccu.com/UCFCUOnline_42/uux.aspx#/form/11"
+
+[[personal.bills]]
+title = "YNAB"
+url = "https://www.ynab.com/"
+
+[[personal.bills]]
+title = "FreeTaxUSA"
+url = "https://www.freetaxusa.com/"
+
+[[personal.bills]]
+title = "Campus Parent"
+url = "https://nebout.infinitecampus.org/campus/portal/parents/nebo.jsp?status=login"
+
+[[personal.bills]]
+title = "Utah EVS"
+url = "https://evs.utah.gov/tracking.base.update.request.do?dataObjectKey=object.pboPatient&trackingId=206019"
+
+[[personal.bills]]
+title = "Public Surplus (Spanish Fork)"
+url = "https://www.publicsurplus.com/sms/spanishfork,ut/list/current?orgid=55364"
+
+# ─── Personal: Services ──────────────────────────────────────────────────────
+
+[[personal.services]]
+title = "Plex"
+url = "https://192.168.86.41:32400/web/index.html#!/"
+
+[[personal.services]]
+title = "YouTube"
+url = "https://www.youtube.com/"
+
+[[personal.services]]
+title = "YouTube Music"
+url = "https://music.youtube.com/"
+
+[[personal.services]]
+title = "Tubi"
+url = "https://tubitv.com/series/300001912/alone/season-10"
+
+[[personal.services]]
+title = "Pocket Casts"
+url = "https://play.pocketcasts.com/"
+
+[[personal.services]]
+title = "NFL+"
+url = "https://www.nfl.com/plus/"
+
+[[personal.services]]
+title = "One Pace"
+url = "https://onepace.net/en/watch"
+
+[[personal.services]]
+title = "PlayStation"
+url = "https://www.playstation.com/en-us/"
+
+[[personal.services]]
+title = "ChatGPT"
+url = "https://chat.openai.com/"
+
+[[personal.services]]
+title = "CS50.ai"
+url = "https://cs50.ai/chat"
+
+[[personal.services]]
+title = "Teachable"
+url = "https://sso.teachable.com/secure/teachable_accounts/profile"
+
+[[personal.services]]
+title = "Stripe"
+url = "https://stripe.com/"
+
+# ─── Personal: Investing ─────────────────────────────────────────────────────
+
+[[personal.investing]]
+title = "Invested"
+url = "https://docs.google.com/spreadsheets/d/1aCQqsCMlRA6Bk4PfiNVUTsg78pyERiOLpPHpuTgt9RA/edit"
+
+[[personal.investing]]
+title = "TrackYourDividends"
+url = "https://trackyourdividends.com/"
+
+[[personal.investing]]
+title = "TradingView"
+url = "https://www.tradingview.com/"
+
+[[personal.investing]]
+title = "CoinMarketCap"
+url = "https://coinmarketcap.com/"
+
+[[personal.investing]]
+title = "SoFi"
+url = "https://www.sofi.com/"
+
+[[personal.investing]]
+title = "Coinbase"
+url = "https://www.coinbase.com/"
+
+[[personal.investing]]
+title = "Binance.US"
+url = "https://www.binance.us/"
+
+[[personal.investing]]
+title = "Robinhood"
+url = "https://robinhood.com/login"
+
+[[personal.investing]]
+title = "URS"
+url = "https://www.urs.org/"
+
+[[personal.investing]]
+title = "CoinTracker"
+url = "https://www.cointracker.io/home"
+
+[[personal.investing]]
+title = "M1 Finance"
+url = "https://dashboard.m1.com/d/invest/portfolio"
+
+[[personal.investing]]
+title = "NerdWallet Budget"
+url = "https://www.nerdwallet.com/article/finance/nerdwallet-budget-calculator"
+
+[[personal.investing]]
+title = "Gemini"
+url = "https://exchange.gemini.com/balances"
+
+[[personal.investing]]
+title = "Bitnodes"
+url = "https://bitnodes.io/"
+
+[[personal.investing]]
+title = "Bitcoin Halving"
+url = "https://buybitcoinworldwide.com/halving/"
+
+[[personal.investing]]
+title = "Finnhub"
+url = "https://finnhub.io/dashboard"
+
+[[personal.investing]]
+title = "Zillow (Spanish Fork)"
+url = "https://www.zillow.com/homes/1242-S-2970-E-Spanish-Fork,-UT-84660_rb/64799441_zpid/"
+
+[[personal.investing]]
+title = "Redfin (Spanish Fork)"
+url = "https://www.redfin.com/UT/Spanish-Fork/1242-S-2970-E-84660/home/103073999"
+
+[[personal.investing]]
+title = "Experian"
+url = "https://www.experian.com/"
+
+[[personal.investing]]
+title = "TransUnion"
+url = "https://www.transunion.com/"
+
+[[personal.investing]]
+title = "Equifax"
+url = "https://www.equifax.com/"
+
+[[personal.investing]]
+title = "Experian Security Freeze"
+url = "https://usa.experian.com/mfe/regulatory/security-freeze"
+
+# ─── Personal: Gaming ────────────────────────────────────────────────────────
+
+[[personal.gaming]]
+title = "GameFAQs"
+url = "https://gamefaqs.gamespot.com/"
+
+[[personal.gaming]]
+title = "Prima Games"
+url = "https://eguides.primagames.com/"
+
+[[personal.gaming]]
+title = "Lichess"
+url = "https://lichess.org/"
+
+[[personal.gaming]]
+title = "Roblox"
+url = "https://www.roblox.com/home"
+
+[[personal.gaming]]
+title = "Wordle"
+url = "https://www.nytimes.com/games/wordle/index.html"
+
+[[personal.gaming]]
+title = "Strands"
+url = "https://www.nytimes.com/games/strands"
+
+[[personal.gaming]]
+title = "Connections"
+url = "https://www.nytimes.com/games/connections"
+
+[[personal.gaming]]
+title = "FF8 Walkthrough"
+url = "https://gamefaqs.gamespot.com/ps/197343-final-fantasy-viii/faqs/72431/preparing-for-the-exam"
+
+[[personal.gaming]]
+title = "Nexus Mods (New Vegas)"
+url = "https://www.nexusmods.com/newvegas/mods/top"
+
+[[personal.gaming]]
+title = "Nexus Mods (Fallout 4)"
+url = "https://www.nexusmods.com/fallout4/mods/top"
+
+[[personal.gaming]]
+title = "Nexus Mods (Gold Mining)"
+url = "https://www.nexusmods.com/games/goldminingsimulator"
+
+[[personal.gaming]]
+title = "Gold Rush Sheet"
+url = "https://docs.google.com/spreadsheets/u/0/d/1fwg5_aFjtqsuri-gUDlk9_aKSB0tvyykyhHTttefEQ4/htmlview#gid=1748354891"
+
+# ─── Personal: Books ─────────────────────────────────────────────────────────
+
+[[personal.books]]
+title = "DCC Wiki"
+url = "https://dungeon-crawler-carl.fandom.com/wiki/Dungeon_Crawler_Carl_Wiki"
+
+[[personal.books]]
+title = "DCC - Carl"
+url = "https://dungeon-crawler-carl.fandom.com/wiki/Carl"
+
+[[personal.books]]
+title = "Audible - DCC Series"
+url = "https://www.audible.com/series/Dungeon-Crawler-Carl-Audiobooks/B0937JMKYV"
+
+[[personal.books]]
+title = "Audible - Carl's Doomsday Scenario"
+url = "https://www.audible.com/pd/Carls-Doomsday-Scenario-Audiobook/B0934GTSGT"
+
+# ─── Personal: Mom's ─────────────────────────────────────────────────────────
+
+[[personal.moms]]
+title = "Central Bank Utah"
+url = "https://cbutah.com/"
+
+[[personal.moms]]
+title = "Freedom CU"
+url = "https://www.freedomcu.com/"
+
+[[personal.moms]]
+title = "Ally"
+url = "https://www.ally.com/"
+
+[[personal.moms]]
+title = "Gemini"
+url = "https://www.gemini.com/"
+
+[[personal.moms]]
+title = "Mom's HOA"
+url = "https://visionam.managebuilding.com/Resident/public/home"
+
+[[personal.moms]]
+title = "Provo Utilities"
+url = "https://myusage.provo.org/app/capricorn?para=index"
+
+[[personal.moms]]
+title = "Dominion Energy"
+url = "https://www.questargas.com/WSS/servlet/CMMainControllerServlet?action=CMSignInAction"
+
+[[personal.moms]]
+title = "Google Fiber"
+url = "https://fiber.google.com/myfiber/#/home/billing"
+
+[[personal.moms]]
+title = "Zillow (Provo)"
+url = "https://www.zillow.com/homes/389-S-State-St-.num.15-Provo,-UT-84606_rb/79771322_zpid/"
+
+[[personal.moms]]
+title = "Redfin (Provo)"
+url = "https://www.redfin.com/UT/Provo/389-S-State-St-84606/unit-15/home/103080571"
+
+# ─── Personal: Fun ───────────────────────────────────────────────────────────
+
+[[personal.fun]]
+title = "Cat Ipsum"
+url = "https://www.catipsum.com/"
+
+[[personal.fun]]
+title = "Coffee Ipsum"
+url = "https://coffeeipsum.com/"
