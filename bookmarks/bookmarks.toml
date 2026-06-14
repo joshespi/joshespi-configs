@@ -47,7 +47,6 @@ url = "https://mvault-stage.provo.edu/"
 title = "Provo City School District GitHub"
 url = "https://github.com/Provo-City-School-District"
 
-
 [[work.pcsd]]
 title = "UKG"
 url = "https://secure7.saashr.com/ta/6205041.login?NoRedirect=1"
@@ -124,7 +123,6 @@ url = "https://auth.barracudanetworks.com/login/email"
 title = "Barracuda Networks (local)"
 url = "https://158.91.125.46/auth/signin/"
 
-
 # ─── Work: Infrastructure ────────────────────────────────────────────────────
 
 [[work.infrastructure]]
@@ -195,47 +193,6 @@ url = "https://docs.google.com/document/d/1t-A69aMdW3vlDxUMu6WksEV60MizzjlDf0rzt
 title = "Tech Support Phones"
 url = "https://docs.google.com/spreadsheets/d/1qDGBdl5bv20nBR8NJcjsnhPEYg3CJ_JMP5OxP1q3nck/edit?gid=0#gid=0"
 
-# ─── Dev: PHP ────────────────────────────────────────────────────────────────
-
-[[dev.php]]
-title = "PHP: The Right Way"
-url = "https://phptherightway.com/"
-
-[[dev.php]]
-title = "PHP-FIG"
-url = "https://www.php-fig.org/"
-
-[[dev.php]]
-title = "PHP.Watch"
-url = "https://php.watch/"
-
-[[dev.php]]
-title = "Packagist"
-url = "https://packagist.org/"
-
-[[dev.php]]
-title = "Online PHP Compiler"
-url = "https://www.programiz.com/php/online-compiler/"
-
-
-# ─── Dev: Frontend ───────────────────────────────────────────────────────────
-
-[[dev.frontend]]
-title = "TinyMCE 7 Documentation"
-url = "https://www.tiny.cloud/docs/tinymce/latest/"
-
-[[dev.frontend]]
-title = "TinyMCE - Multiple Editors"
-url = "https://www.tiny.cloud/docs/tinymce/6/multiple-editors/"
-
-[[dev.frontend]]
-title = "Prism.js Download"
-url = "https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript"
-
-[[dev.frontend]]
-title = "DataTables Download"
-url = "https://datatables.net/download/"
-
 # ─── Dev: References ─────────────────────────────────────────────────────────
 
 [[dev.references]]
@@ -276,7 +233,6 @@ url = "https://grabify.link/"
 title = "Online Random File Generator"
 url = "https://pinetools.com/random-file-generator"
 
-
 # ─── Personal: Social ────────────────────────────────────────────────────────
 
 [[personal.social]]
@@ -307,31 +263,15 @@ url = "https://pinkary.com/@Espi"
 title = "Discord"
 url = "https://discord.com/channels/@me"
 
-[[personal.social]]
-title = "Twitch (stream manager)"
-url = "https://dashboard.twitch.tv/u/trashual_player/stream-manager"
-
-[[personal.social]]
-title = "Twitch (trashual_player)"
-url = "https://www.twitch.tv/trashual_player"
-
-[[personal.social]]
-title = "Twitch (xanderquinn1)"
-url = "https://www.twitch.tv/xanderquinn1"
-
-[[personal.social]]
-title = "Streamlabs"
-url = "https://streamlabs.com/dashboard#/stats"
-
 # ─── Personal: Homelab ───────────────────────────────────────────────────────
 
 [[personal.homelab]]
 title = "pve1 - Proxmox"
-url = "https://192.168.86.40:8006/#v1:0:18:4:::::::"
+url = "https://192.168.86.40:8006/"
 
 [[personal.homelab]]
 title = "pve2 - Proxmox"
-url = "https://192.168.86.150:8006/#v1:0:18:4:::::::"
+url = "https://192.168.86.150:8006/:"
 
 [[personal.homelab]]
 title = "plex-ubuntu24 (Cockpit)"
@@ -351,7 +291,7 @@ url = "https://192.168.86.46:9090/"
 
 [[personal.homelab]]
 title = "backup-redund (Cockpit)"
-url = "https://192.168.86.54:9090/system/terminal"
+url = "https://192.168.86.54:9090/"
 
 [[personal.homelab]]
 title = "Pi-hole (pi4)"
@@ -362,16 +302,12 @@ title = "Pi-hole (dockerpi1)"
 url = "http://192.168.86.241:8314/admin/login"
 
 [[personal.homelab]]
-title = "Sendinblue"
-url = "https://account.sendinblue.com/advanced/plugins/"
+title = "Brevo"
+url = "https://app.brevo.com/"
 
 [[personal.homelab]]
 title = "joshespi.com"
 url = "https://joshespi.com/"
-
-[[personal.homelab]]
-title = "iamjoshespinoza.com"
-url = "https://iamjoshespinoza.com/"
 
 [[personal.homelab]]
 title = "espifam.com"
@@ -381,9 +317,6 @@ url = "https://espifam.com/"
 title = "Portfolio Tracker"
 url = "https://portfolio.espifam.com/dashboard"
 
-[[personal.homelab]]
-title = "Firewalla"
-url = "https://firewalla.com/collections/all/firewalla?&sort_by=created-descending"
 
 # ─── Personal: Bills ─────────────────────────────────────────────────────────
 
@@ -462,10 +395,6 @@ title = "PlayStation"
 url = "https://www.playstation.com/en-us/"
 
 [[personal.services]]
-title = "ChatGPT"
-url = "https://chat.openai.com/"
-
-[[personal.services]]
 title = "CS50.ai"
 url = "https://cs50.ai/chat"
 
@@ -478,14 +407,6 @@ title = "Stripe"
 url = "https://stripe.com/"
 
 # ─── Personal: Investing ─────────────────────────────────────────────────────
-
-[[personal.investing]]
-title = "Invested"
-url = "https://docs.google.com/spreadsheets/d/1aCQqsCMlRA6Bk4PfiNVUTsg78pyERiOLpPHpuTgt9RA/edit"
-
-[[personal.investing]]
-title = "TrackYourDividends"
-url = "https://trackyourdividends.com/"
 
 [[personal.investing]]
 title = "TradingView"
@@ -504,10 +425,6 @@ title = "Coinbase"
 url = "https://www.coinbase.com/"
 
 [[personal.investing]]
-title = "Binance.US"
-url = "https://www.binance.us/"
-
-[[personal.investing]]
 title = "Robinhood"
 url = "https://robinhood.com/login"
 
@@ -524,16 +441,8 @@ title = "M1 Finance"
 url = "https://dashboard.m1.com/d/invest/portfolio"
 
 [[personal.investing]]
-title = "NerdWallet Budget"
-url = "https://www.nerdwallet.com/article/finance/nerdwallet-budget-calculator"
-
-[[personal.investing]]
 title = "Gemini"
 url = "https://exchange.gemini.com/balances"
-
-[[personal.investing]]
-title = "Bitnodes"
-url = "https://bitnodes.io/"
 
 [[personal.investing]]
 title = "Bitcoin Halving"
@@ -578,30 +487,6 @@ title = "Prima Games"
 url = "https://eguides.primagames.com/"
 
 [[personal.gaming]]
-title = "Lichess"
-url = "https://lichess.org/"
-
-[[personal.gaming]]
-title = "Roblox"
-url = "https://www.roblox.com/home"
-
-[[personal.gaming]]
-title = "Wordle"
-url = "https://www.nytimes.com/games/wordle/index.html"
-
-[[personal.gaming]]
-title = "Strands"
-url = "https://www.nytimes.com/games/strands"
-
-[[personal.gaming]]
-title = "Connections"
-url = "https://www.nytimes.com/games/connections"
-
-[[personal.gaming]]
-title = "FF8 Walkthrough"
-url = "https://gamefaqs.gamespot.com/ps/197343-final-fantasy-viii/faqs/72431/preparing-for-the-exam"
-
-[[personal.gaming]]
 title = "Nexus Mods (New Vegas)"
 url = "https://www.nexusmods.com/newvegas/mods/top"
 
@@ -612,28 +497,6 @@ url = "https://www.nexusmods.com/fallout4/mods/top"
 [[personal.gaming]]
 title = "Nexus Mods (Gold Mining)"
 url = "https://www.nexusmods.com/games/goldminingsimulator"
-
-[[personal.gaming]]
-title = "Gold Rush Sheet"
-url = "https://docs.google.com/spreadsheets/u/0/d/1fwg5_aFjtqsuri-gUDlk9_aKSB0tvyykyhHTttefEQ4/htmlview#gid=1748354891"
-
-# ─── Personal: Books ─────────────────────────────────────────────────────────
-
-[[personal.books]]
-title = "DCC Wiki"
-url = "https://dungeon-crawler-carl.fandom.com/wiki/Dungeon_Crawler_Carl_Wiki"
-
-[[personal.books]]
-title = "DCC - Carl"
-url = "https://dungeon-crawler-carl.fandom.com/wiki/Carl"
-
-[[personal.books]]
-title = "Audible - DCC Series"
-url = "https://www.audible.com/series/Dungeon-Crawler-Carl-Audiobooks/B0937JMKYV"
-
-[[personal.books]]
-title = "Audible - Carl's Doomsday Scenario"
-url = "https://www.audible.com/pd/Carls-Doomsday-Scenario-Audiobook/B0934GTSGT"
 
 # ─── Personal: Mom's ─────────────────────────────────────────────────────────
 
@@ -676,13 +539,3 @@ url = "https://www.zillow.com/homes/389-S-State-St-.num.15-Provo,-UT-84606_rb/79
 [[personal.moms]]
 title = "Redfin (Provo)"
 url = "https://www.redfin.com/UT/Provo/389-S-State-St-84606/unit-15/home/103080571"
-
-# ─── Personal: Fun ───────────────────────────────────────────────────────────
-
-[[personal.fun]]
-title = "Cat Ipsum"
-url = "https://www.catipsum.com/"
-
-[[personal.fun]]
-title = "Coffee Ipsum"
-url = "https://coffeeipsum.com/"
